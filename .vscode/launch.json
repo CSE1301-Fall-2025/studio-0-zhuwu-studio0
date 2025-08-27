@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BurritoBudget",
+            "request": "launch",
+            "mainClass": "studio0.BurritoBudget",
+            "projectName": "studio-0-zhuwu-studio0_64e68f51"
+        },
+        {
+            "type": "java",
+            "name": "LunchReceipt",
+            "request": "launch",
+            "mainClass": "studio0.LunchReceipt",
+            "projectName": "studio-0-zhuwu-studio0_64e68f51"
+        },
+        {
+            "type": "java",
+            "name": "Message",
+            "request": "launch",
+            "mainClass": "studio0.Message",
+            "projectName": "studio-0-zhuwu-studio0_64e68f51"
+        },
+        {
+            "type": "java",
+            "name": "MilageReport",
+            "request": "launch",
+            "mainClass": "studio0.MilageReport",
+            "projectName": "studio-0-zhuwu-studio0_64e68f51"
+        }
+    ]
+}
